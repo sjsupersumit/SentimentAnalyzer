@@ -1,5 +1,5 @@
 Sentiment Analyzer For Tweets
 
-pyton Script for capturing live tweets and tweets for last 1 week wich contains cerain keyword
+python Script for capturing live tweets using tweepy and twiteer api and tweets for last 1 week wich contains cerain keyword
 
-Scrit for traing system and then testing the caputure tweets for sentiment
+Script for training system and then testing the caputured tweets for sentiment
